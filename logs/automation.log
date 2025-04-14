@@ -1,0 +1,39 @@
+17:25:26.311 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Test Executed***
+17:25:28.894 [main] INFO  testCases.TC002_LoginTest {36} - starting TC_002_Logintest
+17:25:31.233 [main] INFO  testCases.TC002_LoginTest {36} - ******Finished TC_002***
+12:57:43.321 [main] DEBUG org.testng.TestNG {36} - suiteXmlPath: "D:\Softwares\Automation\OpencartV121\master.xml"
+12:57:51.456 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Starting TC001_AccountRegistrationTest***
+12:57:52.304 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on Mhyaccount link***
+12:57:52.675 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on register link***
+12:57:52.680 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Providigng cust detail***
+12:57:55.362 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Validating Expected message***
+12:57:55.466 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Test Executed***
+12:57:57.985 [main] INFO  testCases.TC002_LoginTest {36} - starting TC_002_Logintest
+12:58:00.219 [main] INFO  testCases.TC002_LoginTest {36} - ******Finished TC_002***
+13:16:57.072 [main] DEBUG org.testng.TestNG {36} - suiteXmlPath: "D:\Softwares\Automation\OpencartV121\master.xml"
+13:17:04.774 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Starting TC001_AccountRegistrationTest***
+13:17:05.692 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on Mhyaccount link***
+13:17:06.311 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on register link***
+13:17:06.328 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Providigng cust detail***
+13:17:09.427 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Validating Expected message***
+13:17:09.545 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Test Executed***
+13:17:12.704 [main] INFO  testCases.TC002_LoginTest {36} - starting TC_002_Logintest
+13:17:15.568 [main] INFO  testCases.TC002_LoginTest {36} - ******Finished TC_002***
+13:36:48.994 [main] DEBUG org.testng.TestNG {36} - suiteXmlPath: "D:\Softwares\Automation\OpencartV121\master.xml"
+13:36:54.315 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Starting TC001_AccountRegistrationTest***
+13:36:55.037 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on Mhyaccount link***
+13:36:55.500 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on register link***
+13:36:55.512 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Providigng cust detail***
+13:36:58.104 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Validating Expected message***
+13:36:58.187 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Test Executed***
+13:37:00.445 [main] INFO  testCases.TC002_LoginTest {36} - starting TC_002_Logintest
+13:37:02.886 [main] INFO  testCases.TC002_LoginTest {36} - ******Finished TC_002***
+13:37:39.987 [main] DEBUG org.testng.TestNG {36} - suiteXmlPath: "D:\Softwares\Automation\OpencartV121\master.xml"
+13:37:45.946 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Starting TC001_AccountRegistrationTest***
+13:37:46.861 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on Mhyaccount link***
+13:37:47.437 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Clicked on register link***
+13:37:47.447 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Providigng cust detail***
+13:37:50.360 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Validating Expected message***
+13:37:50.517 [main] INFO  testCases.TC001_AccountRegistrationTest {36} - ******Test Executed***
+13:37:53.797 [main] INFO  testCases.TC002_LoginTest {36} - starting TC_002_Logintest
+13:37:57.089 [main] INFO  testCases.TC002_LoginTest {36} - ******Finished TC_002***
